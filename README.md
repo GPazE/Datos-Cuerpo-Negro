@@ -1,7 +1,7 @@
 # Datos-Cuerpo-Negro
 En este repository se alojan datos del experimento de cuerpo negro realizado en la UMSA en el transcurso de noviembre del 2023 por el grupo de Guillermo Paz Elorriaga
 EXPERIMENTO 4TA POTENCIA
-CON DIAFRAGMA		
+AAACON DIAFRAGMA		
 Vfilamento	CorrienteFilamento	Voltaje de Pila
 0	0	0.11
 2	0.05	0.088
