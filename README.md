@@ -50,3 +50,25 @@ Vfilamento	CorrienteFilamento	Voltaje de Pila
 87.6	0.28	1.453
 ![image](https://github.com/GPazE/Datos-Cuerpo-Negro/assets/152380416/2718915f-e1a4-4f2e-ab15-e909e31b5886)
 
+Sin Diafragma		
+Vfil	Ifil	Vpil
+5.1	0.09	-0.049
+10.1	0.11	-0.047
+15.1	0.13	-0.041
+20	0.14	-0.026
+25.1	0.15	-0.05
+30.1	0.17	0.025
+35.3	0.18	0.059
+40	0.19	0.098
+45.4	0.2	0.144
+50	0.21	0.197
+55	0.22	0.248
+60.2	0.23	0.312
+65.2	0.24	0.375
+70	0.25	0.447
+75.1	0.26	0.521
+80	0.27	0.594
+87.7	0.28	0.706
+![image](https://github.com/GPazE/Datos-Cuerpo-Negro/assets/152380416/8e815d0b-6007-42ce-b8d4-63603720e00c)
+
+
